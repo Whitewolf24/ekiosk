@@ -183,7 +183,7 @@ function mce_panel_gen ($apivalid,$listdata,$cf7_mch,$listatags,$mce_txcomodin) 
 ?>
 
 
-<div class="mce-main-fields pos-rel" data-info="6283ef9bdef6755f8fe686ce53bdf75a-us4">
+<div class="mce-main-fields pos-rel" data-info="">
 
   <a href="http://bit.ly/latte4renzo" class="dops-button is-primary donate-2019" target="_blank">DONATE</a>
 
