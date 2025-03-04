@@ -1,0 +1,3 @@
+Mar 02 2025 15:48:13
+{"type":8192,"message":"Creation of dynamic property WC_Cart::$coupon_discount_tax_totals is deprecated","file":"D:\\Documents\\Local Sites\\wooc\\app\\public\\wp-content\\plugins\\woocommerce\\includes\\legacy\\class-wc-legacy-cart.php","line":266}
+
